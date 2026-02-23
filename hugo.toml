@@ -1,3 +1,51 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Project'
+baseURL = "https://pantanobeat.com/"
+languageCode = "en-us"
+title = "Pantano Beat"
+theme = "github.com/panr/hugo-theme-terminal/v4"
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "orange"
+  fullWidthTheme = false
+  centerTheme = true
+  showMenuItems = 4
+  showLanguageSelector = false
+  fixedLandingPage = false
+  autoCover = true
+  showLastUpdated = false
+  readingTime = true
+  Subtitle = "music collective"
+
+[params.logo]
+  logoText = "pantano~beat"
+  logoHomeLink = "/"
+
+[markup.highlight]
+  noClasses = false
+
+[[menu.main]]
+  identifier = "posts"
+  name = "news"
+  url = "/posts/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "releases"
+  name = "releases"
+  url = "/releases/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "events"
+  name = "events"
+  url = "/events/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "about"
+  name = "about"
+  url = "/about/"
+  weight = 4
