@@ -10,4 +10,4 @@ We make records, play shows, and release music on our own terms.
 
 ---
 
-Get in touch: [info@pantanobeat.com](mailto:info@pantanobeat.com)
+Get in touch: [booking@pantanobeat.com](mailto:booking@pantanobeat.com)
