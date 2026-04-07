@@ -1,0 +1,14 @@
+/*
+  Pantano Beat — terminal.css
+  Theme color variable overrides.
+
+  Current orange theme defaults (change these to restyle):
+    --background: #1a170f  (very dark warm brown)
+    --foreground: #eceae5  (warm off-white)
+    --accent:     #eec35e  (amber/gold)
+*/
+
+:root {
+  --line-height: 1.65em;
+  /* --accent: #d4a84b; */  /* Uncomment for a darker amber tone */
+}

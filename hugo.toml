@@ -11,13 +11,16 @@ theme = "github.com/panr/hugo-theme-terminal/v4"
   themeColor = "orange"
   fullWidthTheme = false
   centerTheme = true
-  showMenuItems = 4
+  showMenuItems = 5
   showLanguageSelector = false
   fixedLandingPage = false
   autoCover = true
   showLastUpdated = false
   readingTime = true
   Subtitle = "music collective"
+  readMore = "read more"
+  readOtherPosts = "other posts"
+  dateFormat = "January 2"
 
 [params.logo]
   logoText = "pantano~beat"
@@ -49,3 +52,9 @@ theme = "github.com/panr/hugo-theme-terminal/v4"
   name = "about"
   url = "/about/"
   weight = 4
+
+[[menu.main]]
+  identifier = "press"
+  name = "press"
+  url = "/press/"
+  weight = 5

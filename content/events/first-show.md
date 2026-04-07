@@ -8,8 +8,6 @@ description = "Our first live show. Details soon."
 
 **Pantano Beat — live**
 
-Date: TBA
-Venue: TBA
-City: TBA
+Date, venue, and city to be announced.
 
-Details to be announced. Follow us for updates.
+Follow us for updates.

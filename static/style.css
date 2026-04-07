@@ -1,0 +1,47 @@
+/*
+  Pantano Beat — style.css
+  Custom CSS on top of the terminal theme.
+  Comment out any block to disable it.
+*/
+
+/* === LANDING PAGE INTRO === */
+/* Body text from _index.md. Adds breathing room and an amber divider line. */
+.index-content {
+  font-size: 1.05rem;
+  padding: 10px 0 20px;
+  border-bottom: 1px solid var(--accent);
+  margin-bottom: 10px;
+}
+
+/* === LOGO === */
+/* Slightly larger with more letter-spacing for presence. */
+.logo {
+  font-size: 1.1rem;
+  letter-spacing: 0.04em;
+}
+
+/* === POST TITLES === */
+/* Subtle letter-spacing for an editorial feel. */
+.post-title {
+  letter-spacing: 0.02em;
+}
+
+/* === HORIZONTAL RULE === */
+/* The --- divider (amber bar). More vertical breathing room. */
+hr {
+  margin: 40px 0;
+}
+
+/* === FOOTER === */
+/* Slightly more readable than the theme default (0.65 opacity). */
+.footer {
+  opacity: 0.75;
+}
+
+/*
+  COVER IMAGES (uncomment when you start adding cover art):
+  img {
+    border-width: 4px;
+    padding: 4px;
+  }
+*/

@@ -6,4 +6,8 @@ tags = ["EP", "2026"]
 description = "First EP is on the way."
 +++
 
-Our first EP is on the way. Stay tuned.
+Our first EP is in the works.
+
+Recorded in the swamp. Mixed somewhere humid. Details soon.
+
+{{< soundcloud url="https://soundcloud.com/brtech/coffee_stains" >}}
