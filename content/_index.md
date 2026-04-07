@@ -1,11 +1,4 @@
 +++
 title = "Pantano Beat"
+description = "music collective"
 +++
-
-Pantano Beat is a music collective.
-
-We record. We play. We release music on our own terms.
-
----
-
-First EP out soon.
